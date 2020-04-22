@@ -1,3 +1,28 @@
+.navbar{
+    margin-top: 0px;
+    margin-bottom:
+} 
+
+.rightnav{
+    position: absolute;
+    right: 10px;
+}
+
+.box{
+    background-color: rgb(80, 163, 166) ;
+
+}
+
+body{
+    background-color: grey;
+}
+
+.container{
+    background-color: white;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
 header{
     padding: 10px;
     color: rgb(80, 163, 166);
@@ -28,4 +53,18 @@ header{
     bottom: 25%;
     background-color:rgb(80, 163, 166);
     padding: 2px;
+}
+
+.copyright{
+    background-color:darkgray;
+    position:relative;
+    bottom:0px;
+    padding: 10px;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color:rgb(80, 163, 166) ;
+}
+
+.centeredtext{
+    text-align: center;
 }

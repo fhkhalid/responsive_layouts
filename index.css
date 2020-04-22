@@ -1,3 +1,23 @@
+.navbar{
+    margin-top: 0px;
+    margin-bottom:
+} 
+
+.rightnav{
+    position: absolute;
+    right: 10px;
+}
+
+.box{
+    background-color: rgb(80, 163, 166) ;
+
+}
+
+
+
+
+
+
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -6,7 +26,55 @@ body{
 
 
 
-.navbar{
+.container{
+    background-color: white;
+    margin-top: 15px;
+}
+
+.linebreak{
+    border-style: solid; 
+    border-color:grey;
+    border-width: 1px;
+    margin:2px;
+}
+
+.aboutMe{
+    margin:2px;
+}
+
+.heading{
+    margin:2px;
+    color: rgb(80, 163, 166);
+}
+
+img{
+    position: relative;
+    float: left;
+}
+
+.copyright{
+    background-color:darkgray;
+    position:absolute;
+    bottom:0;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color:rgb(80, 163, 166) ;
+}
+
+.centeredtext{
+    text-align: center;
+}
+
+.btn{
+    background-color: rgb(80, 163, 166) ;
+    color: white;
+}
+
+
+
+
+
+/* .navbar{
     background-color: white;
     border: 1px lightgrey;
     border-bottom-style: groove;
@@ -54,4 +122,4 @@ img{
 footer{
     
     margin-bottom: auto;
-}
+} */ 
