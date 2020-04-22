@@ -1,0 +1,57 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgray;
+}
+
+
+
+.navbar{
+    background-color: white;
+    border: 1px lightgrey;
+    border-bottom-style: groove;
+}
+
+#YourName{
+    background-color: rgb(80, 163, 166);
+    color: white;
+   
+    font-weight: bolder;
+    padding: 10px;
+    width: 100%;
+    margin:0;
+}
+
+
+
+.nav-about, .nav-portfolio{
+    color:grey;
+    border-right-style: groove;
+}
+
+main{
+
+    border-style: solid;
+    border-color: grey;
+    background-color: white;
+    margin-top: 50px;
+    
+    
+}
+
+.page-header{
+    border-bottom-style: solid;
+    border-color: lightgray;
+    padding: 20px;
+    color: rgb(80, 163, 166);
+
+}
+
+img{
+    padding: 50px;
+}
+
+footer{
+    
+    margin-bottom: auto;
+}
